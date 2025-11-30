@@ -218,27 +218,6 @@ Testing & demos
 
 ---
 
-Contributing
-
-If you want to contribute:
-- Open an issue to discuss major changes or features.
-- Fork the repo and submit a pull request for bug fixes, improvements, or tests.
-- Suggested first improvements:
-  - Add a `requirements.txt` with pinned versions.
-  - Add a config file (e.g., `config.yaml`) for weights and thresholds.
-  - Implement the threaded/asynchronous pipeline for non-blocking UI.
-
----
-
-License
-
-Include your chosen license here (MIT, Apache-2.0, etc.). If you don’t have one yet, adding a LICENSE file is recommended. For example:
-```
-MIT License
-```
-
----
-
 Acknowledgements & resources
 
 - DeepFace — facial analysis library
@@ -251,12 +230,3 @@ Acknowledgements & resources
 
 ---
 
-Contact / author
-- Repository owner: satwik931
-- GitHub: https://github.com/satwik931/Mindful-Interviewer
-
-Thank you for exploring Mindful-Interviewer. If you'd like, I can:
-- Produce a `requirements.txt` pinned with tested versions,
-- Add a `config.yaml` with weights/thresholds and update the code to read from it,
-- Implement the threaded/non-blocking version of `main.py` and/or a more robust `speak_with_animation` variant.
-Which would you like next?
